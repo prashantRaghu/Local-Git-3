@@ -1,9 +1,9 @@
 {
 	"info": {
-		"_postman_id": "83cb8fb2-9a05-4fb1-90a1-dc4239835d0c",
-		"name": "Collection From FS 2",
+		"_postman_id": "83cbmkb2-9a05-4fb1-90a1-dmk239835d0c",
+		"name": "Collection 3 From File",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_uid": "889210-83cb8fb2-9a05-4fb1-90a1-dc4239835d0c"
+		"_uid": "889210-83cbmkb2-9a05-4fb1-90a1-dmk239835d0c"
 	},
 	"item": [],
 	"event": [
